@@ -2,7 +2,7 @@
 
 Personal portfolio — dark terminal-editorial aesthetic, built in a single HTML file.
 
-**Live →** [bhumika.builds](https://bhumika.builds)
+**Live →** [bhumikabuilds.me](https://bhumikabuilds.me)
 
 ---
 
