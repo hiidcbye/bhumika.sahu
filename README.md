@@ -16,7 +16,7 @@ HTML · CSS · Vanilla JS · GitHub Pages
 - Live status ticker · Custom cursor · Scroll animations
 
 ### Projects
-- **Saavy** — AI student finance app · React, FastAPI, PostgreSQL, LLM APIs
+- **Saavy** — AI student finance app · React, FastAPI, PostgreSQL, LLM APIs · [Live](https://savvy-lime.vercel.app/)
 - **ScopeGuard** — Scope creep detector · React, Node.js, Gemini API · [Live](https://scopeguard.onrender.com)
 
 ---
